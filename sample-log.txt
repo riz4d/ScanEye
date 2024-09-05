@@ -1,0 +1,145 @@
+Scanned Report Of Gateway 192.168.25.1
+
+Host: 192.168.25.5
+State: up
+Port: 554
+State: openNone
+Port 80 is closed on 192.168.25.5.
+
+Host: 192.168.25.11
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.11 is running RTSP.
+Port 80 is open on 192.168.25.11.
+
+Host: 192.168.25.12
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.12 is running RTSP.
+Port 80 is open on 192.168.25.12.
+
+Host: 192.168.25.13
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.13 is running RTSP.
+Port 80 is open on 192.168.25.13.
+
+Host: 192.168.25.14
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.14 is running RTSP.
+Port 80 is open on 192.168.25.14.
+
+Host: 192.168.25.15
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.15 is running RTSP.
+Port 80 is open on 192.168.25.15.
+
+Host: 192.168.25.58
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.58 is running RTSP.
+Port 80 is open on 192.168.25.58.
+
+Host: 192.168.25.59
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.59 is running RTSP.
+Port 80 is open on 192.168.25.59.
+
+Host: 192.168.25.60
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.60 is running RTSP.
+Port 80 is open on 192.168.25.60.
+
+Host: 192.168.25.61
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.61 is running RTSP.
+Port 80 is open on 192.168.25.61.
+
+Host: 192.168.25.62
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.62 is running RTSP.
+Port 80 is open on 192.168.25.62.
+
+Host: 192.168.25.66
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.66 is running RTSP.
+Port 80 is open on 192.168.25.66.
+
+Host: 192.168.25.71
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.71 is running RTSP.
+Port 80 is open on 192.168.25.71.
+
+Host: 192.168.25.74
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.74 is running RTSP.
+Port 80 is open on 192.168.25.74.
+
+Host: 192.168.25.75
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.75 is running RTSP.
+Port 80 is open on 192.168.25.75.
+
+Host: 192.168.25.76
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.76 is running RTSP.
+Port 80 is open on 192.168.25.76.
+
+Host: 192.168.25.81
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.81 is running RTSP.
+Port 80 is open on 192.168.25.81.
+
+Host: 192.168.25.90
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.90 is running RTSP.
+Port 80 is open on 192.168.25.90.
+
+Host: 192.168.25.92
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.92 is running RTSP.
+Port 80 is open on 192.168.25.92.
+
+Host: 192.168.25.94
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.94 is running RTSP.
+Port 80 is open on 192.168.25.94.
+
+Host: 192.168.25.95
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.95 is running RTSP.
+Port 80 is open on 192.168.25.95.
+
+Host: 192.168.25.96
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.96 is running RTSP.
+Port 80 is open on 192.168.25.96.
+
+Host: 192.168.25.110
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.110 is running RTSP.
+Port 80 is open on 192.168.25.110.
+
+Host: 192.168.25.117
+State: up
+Port: 554
+State: openPort 554 on 192.168.25.117 is running RTSP.
+Port 80 is closed on 192.168.25.117.
